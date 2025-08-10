@@ -17,7 +17,7 @@ int main()
                 fact[j]=i;
                // cout << fact[j]<<" ";
                 j++;
-            }
+            } 
         }
         if (k<=j){
             cout << fact[k-1] <<" ";
